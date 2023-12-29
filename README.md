@@ -1,1 +1,1 @@
-# E-Commerce-Data-Modeling
+# Ecommerce Data Modeling
